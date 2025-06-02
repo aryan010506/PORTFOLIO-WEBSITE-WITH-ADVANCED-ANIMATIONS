@@ -60,3 +60,7 @@ Tech-savvy individuals applying for jobs in creative or technical industries
 
 🔹 Objective:
 To stand out, engage visitors, and communicate creativity and capability through a blend of compelling design and technical finesse.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/7b469fed-f989-4a7e-99fb-628395403e0c)
