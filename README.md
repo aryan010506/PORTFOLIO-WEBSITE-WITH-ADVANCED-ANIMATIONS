@@ -1,10 +1,17 @@
 # PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS
+
 # COMPANY:CODTECH IT SOLUTIONS
+
 # NAME:ARYAN SUNIL
+
 #INTERN ID:CT04DF1713
+
 #DOMAIN:FRONTEND WEB DEVELOPMENT
+
 #DURATION:4 WEEKS
+
 #MENTOR:NEELA SANTOSH
+
 #description of the task:
 🔹 Description:
 A Portfolio Website with Advanced Animations is a modern and immersive web platform that leverages cutting-edge front-end technologies (like GSAP, Framer Motion, Lottie, or Three.js) to deliver smooth, dynamic, and interactive visuals. These animations serve both aesthetic and functional purposes — guiding user attention, emphasizing key content, and reinforcing the brand’s identity.
